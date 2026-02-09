@@ -89,10 +89,10 @@ High-risk patients demonstrated ~70% higher readmission rates compared to low-ri
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/page1.png)
+![Executive Overview](images/executive_overview.png)
 
 ### Risk Drivers
-![Risk Drivers](images/page2.png)
+![Risk Drivers](images/risk_drivers.png)
 
 ## Business Impact
 
